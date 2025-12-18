@@ -12,3 +12,6 @@ Zonal Wind – ERA5 monthly mean zonal wind
 Expected Findings:
 I expect to find correlation between periods of high solar activity and stronger polar vortex winds in the stratosphere, with a lag between solar activity and atmospheric response. The strength of correlation might be influenced by season.
 
+Please note:
+
+The ERA5 netcdf file is quite large and cannot be uploaded to Github direcly.
